@@ -4,13 +4,13 @@
 ## 城市数据（因小程序包体积限制，建议城市数据放在服务器）
 ```json
 [{
-  "value":2, // 省直辖市
+  "value":2,
   "text":"北京市",
   "children":[{
-    "value":52, // 市
+    "value":52,
     "text":"北京",
     "children":[{
-      "value":500, // 区县
+      "value":500,
       "text":"东城区"
     }]
   }]
